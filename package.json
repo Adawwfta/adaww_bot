@@ -1,0 +1,26 @@
+{
+  "name": "adaww_bot",
+  "version": "1.0.0",
+  "description": "Adaww's Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telegraf/telegraf.git"
+  },
+  "keywords": [
+    "adaww"
+  ],
+  "author": "Adaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telegraf/telegraf/issues"
+  },
+  "homepage": "https://github.com/telegraf/telegraf#readme",
+  "dependencies": {
+    "telegraf": "^3.25.0"
+  }
+}
